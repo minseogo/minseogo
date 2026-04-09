@@ -20,10 +20,16 @@ Comfortable collaborating with backend developers and designers to deliver **pro
 ![SCSS](https://img.shields.io/badge/Sass-FBEAF0?style=flat&logo=sass&logoColor=993556)
 ![Styled Components](https://img.shields.io/badge/Styled--components-FBEAF0?style=flat&logo=styled-components&logoColor=993556)
 
-### Backend / Logic
-![PHP](https://img.shields.io/badge/PHP-EEEDFE?style=flat&logo=php&logoColor=3C3489)
-![REST API](https://img.shields.io/badge/REST_API-F1EFE8?style=flat&logoColor=444441)
+### AI & API
+![Gemini AI API](https://img.shields.io/badge/Gemini_AI_API-E6F1FB?style=flat&logo=google&logoColor=185FA5)
+![Imagen API](https://img.shields.io/badge/Imagen_API-E6F1FB?style=flat&logo=google&logoColor=185FA5)
+![REST API](https://img.shields.io/badge/REST_API-F1EFE8?style=flat)
 ![Axios](https://img.shields.io/badge/Axios-F1EFE8?style=flat)
+
+### Backend / Database
+![PHP](https://img.shields.io/badge/PHP-EEEDFE?style=flat&logo=php&logoColor=3C3489)
+![Supabase](https://img.shields.io/badge/Supabase-E1F5EE?style=flat&logo=supabase&logoColor=085041)
+![SQL](https://img.shields.io/badge/SQL-F1EFE8?style=flat)
 
 ### Architecture & Tools
 - White-label system design
@@ -34,6 +40,7 @@ Comfortable collaborating with backend developers and designers to deliver **pro
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F1EFE8?style=flat&logo=git&logoColor=633806)
 ![GitHub](https://img.shields.io/badge/GitHub-F1EFE8?style=flat&logo=github&logoColor=2C2C2A)
+![Vercel](https://img.shields.io/badge/Vercel-F1EFE8?style=flat&logo=vercel&logoColor=2C2C2A)
 ![Figma](https://img.shields.io/badge/Figma-FBEAF0?style=flat&logo=figma&logoColor=993556)
 
 ---
