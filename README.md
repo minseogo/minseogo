@@ -1,10 +1,29 @@
 # 👋 Hi, I'm Minseo Go
 
+Frontend Engineer | Full Stack Capable Developer
+
+Frontend Engineer focused on building scalable, production-ready web applications.
+
+✔ 10+ production projects delivered  
+✔ Multi-tenant SaaS used by 5+ companies  
+✔ AI chatbot system with ~40% token optimization  
+
+Specialized in React, TypeScript, and modern frontend architecture, with experience in AI systems, white-label SaaS platforms, and real-world client development.
+
+I focus on building scalable UI systems and user-centered products that solve real problems.
+
+---
+
+## 👋 About Me
+
 Frontend Developer with **1.5+ years of hands-on production experience** building scalable web applications and enterprise solutions.
 
-Specialized in **React, TypeScript, and modern frontend architecture**, with practical experience designing **AI chatbot systems, white-label platforms, and real-world client projects**.
+I specialize in **React, TypeScript, and modern frontend architecture**, with practical experience in designing:
+- AI chatbot systems  
+- White-label SaaS platforms  
+- Multi-client enterprise applications  
 
-Comfortable collaborating with backend developers and designers to deliver **production-ready, user-focused applications**.
+Comfortable collaborating with backend developers and designers to deliver **production-ready, scalable applications**.
 
 ---
 
@@ -29,13 +48,14 @@ Comfortable collaborating with backend developers and designers to deliver **pro
 ### Backend / Database
 ![PHP](https://img.shields.io/badge/PHP-EEEDFE?style=flat&logo=php&logoColor=3C3489)
 ![Supabase](https://img.shields.io/badge/Supabase-E1F5EE?style=flat&logo=supabase&logoColor=085041)
-![SQL](https://img.shields.io/badge/SQL-F1EFE8?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-F1EFE8?style=flat&logo=mysql&logoColor=005C84)
 
-### Architecture & Tools
-- White-label system design
-- JSON-based configuration
-- Figma-to-code implementation
-- Responsive Design · Performance Optimization · Cross-browser Compatibility
+### Architecture & Concepts
+- White-label SaaS architecture  
+- Multi-tenant system design  
+- JSON-based configuration systems  
+- Figma-to-code implementation  
+- Responsive design & performance optimization  
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F1EFE8?style=flat&logo=git&logoColor=633806)
@@ -47,18 +67,21 @@ Comfortable collaborating with backend developers and designers to deliver **pro
 
 ## 🚀 Featured Projects
 
-### 🔹 Groupware Platform (Enterprise SaaS)
+---
 
-💡 **Description:**
+### 🔹 White-label Groupware Platform (Enterprise SaaS)
 
-Built a **white-label groupware platform** used by multiple corporate clients.
+✔ Used by 5+ companies  
+✔ Reduced onboarding time by ~60%  
+✔ Built scalable multi-tenant architecture  
 
-- Developed features including attendance tracking, document workflow, task management, and project tracking
-- Designed a **JSON-based override system** allowing per-client customization (logo, domain, colors, fonts) without modifying the codebase
-- Separated configuration from UI logic to improve scalability and maintainability
-- Collaborated with backend developers to integrate REST APIs and manage real-time data flow
+- Built a **white-label override system** enabling per-client customization (logo, domain, colors, fonts) without modifying core codebase  
+- Designed a **JSON-based configuration layer** to separate UI logic from client-specific settings and improve scalability  
+- Developed enterprise features including attendance tracking, document workflow, task management, and project tracking  
+- Collaborated with backend developers to integrate REST APIs and handle real-time data synchronization  
+- Structured system architecture to support multi-client scaling and long-term maintainability  
 
-👉 **Focus:** Scalability, architecture, multi-client system design
+👉 Focus: System architecture, white-label SaaS, multi-tenant scalability
 
 ---
 
@@ -66,85 +89,69 @@ Built a **white-label groupware platform** used by multiple corporate clients.
 
 🔗 Live Demo: https://www.xn--3v0bj0a12bq1ad54e.kr/
 
-💡 **Description:**
+✔ Reduced token usage by ~40%  
+✔ Built full AI system beyond API integration  
 
-Designed and implemented a **full AI chatbot system** beyond simple API integration.
+- Built chatbot logic using Gemini API + PHP backend  
+- Implemented conversation memory with keyword-based optimization  
+- Designed system instruction layer to control response behavior  
+- Injected real-time context (date/time awareness)  
+- Handled async flow, API errors, and edge cases for stability  
 
-- Built chatbot logic using **Gemini API + PHP backend**
-- Implemented keyword extraction, conversation memory, and token optimization strategy
-- Designed system instruction structure to control chatbot behavior and response scope
-- Implemented real-time date-context injection for accurate time-based responses
-- Handled API errors, edge cases, and asynchronous data flow for stable UX
-
-👉 **Focus:** System design, AI integration, performance optimization
-
----
-
-### 🔹 Markpick Platform
-
-🔗 Live Demo: https://www.markpick.co.kr/
-
-💡 **Description:**
-
-Built and maintained a **production-level web platform** in collaboration with backend developers.
-
-- Developed the frontend using React and reusable component architecture
-- Improved overall UI/UX and user flow
-- Integrated REST APIs and handled dynamic data rendering
-- Focused on maintainable structure and scalable codebase
-
-👉 **Focus:** Real-world production experience, UI/UX improvement
+👉 Focus: AI system design, optimization, backend integration
 
 ---
 
 ### 🔹 Personal Portfolio Website
 
-🔗 Live Demo: https://gominseo-pr.vercel.app/
-📦 GitHub: https://github.com/minseogo
+🔗 Live Demo: https://gominseo-pr.vercel.app/  
+📦 GitHub: https://github.com/minseogo  
 
-💡 **Description:**
+- Built a personal portfolio website with performance and usability in mind  
+- Implemented multi-language support using JSON-based i18n system  
+- Designed fully responsive UI for desktop and mobile  
+- Optimized performance and structured clean component architecture  
 
-Built a personal portfolio website with performance and usability in mind.
-
-- Implemented **multi-language support using JSON-based i18n system**
-- Designed fully responsive UI for desktop and mobile
-- Optimized performance and structured clean component architecture
-
-👉 **Focus:** Frontend fundamentals, performance, clean design
+👉 Focus: Frontend fundamentals, performance, clean design
 
 ---
 
 ## 💼 Experience
 
-**Frontend Developer**
-Oct 2024 – Feb 2026 | Korea
+**Frontend Developer**  
+Oct 2024 – Feb 2026 | Korea  
+
+Worked on multiple real-world production projects including SaaS platforms, AI systems, and enterprise web applications.
 
 - Built production-ready web applications based on Figma designs
-- Developed responsive, pixel-accurate UI across multiple client projects
-- Integrated REST APIs and handled asynchronous data flow
-- Collaborated closely with designers and backend developers
-- Participated in full project lifecycle: development → deployment → maintenance
+- Developed multi-tenant SaaS features with white-label customization systems
+- Implemented AI chatbot logic and backend integration using Gemini API + PHP
+- Delivered responsive, pixel-perfect UI across multiple client projects
+- Collaborated closely with designers and backend developers in real environments
+- Participated in full lifecycle development: planning → development → deployment → maintenance
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Node.js** — Expanding into server-side JavaScript to complement my React expertise
-- **Java** — Exploring backend fundamentals and object-oriented programming
+- Node.js — Expanding into backend development for full-stack capability  
+- Java — Strengthening backend fundamentals and OOP design  
 
 ---
 
 ## 🌎 Career Goal
 
-Seeking opportunities as a **Frontend Developer in Canada 🇨🇦**
-Open to international teams, remote work, and global collaboration.
+Seeking Frontend / Full Stack opportunities in Canada 🇨🇦
 
-Expanding into Node.js to complement my React expertise with full-stack JavaScript capabilities.
+Interested in:
+- Scalable web applications
+- AI-integrated systems
+- International collaboration
 
 ---
 
 ## 📫 Contact
 
-- Email: gominseo1112@gmail.com
-- GitHub: https://github.com/minseogo
+- Email: gominseo1112@gmail.com  
+- GitHub: https://github.com/minseogo  
 - Portfolio: https://gominseo-pr.vercel.app/
