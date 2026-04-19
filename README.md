@@ -105,7 +105,7 @@ Comfortable collaborating with backend developers and designers to deliver **pro
 ### 🔹 Personal Portfolio Website
 
 🔗 Live Demo: https://go-daniela-dev.vercel.app/
-📦 GitHub: https://github.com/go-daniela-dev/
+📦 GitHub: https://github.com/go-daniela-dev/React_typescript_portfolio
 
 - Built a personal portfolio website with performance and usability in mind  
 - Implemented multi-language support using JSON-based i18n system  
@@ -155,3 +155,4 @@ Interested in:
 - Email: go.daniela.dev@gmail.com
 - GitHub: https://github.com/go-daniela-dev/
 - Portfolio: https://go-daniela-dev.vercel.app/
+- LinkedIn: www.linkedin.com/in/go-daniela-dev
