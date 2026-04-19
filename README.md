@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minseo Go
+# 👋 Hi, I'm Daniela Go
 
 Frontend Engineer | Full Stack Capable Developer
 
@@ -104,8 +104,8 @@ Comfortable collaborating with backend developers and designers to deliver **pro
 
 ### 🔹 Personal Portfolio Website
 
-🔗 Live Demo: https://gominseo-pr.vercel.app/  
-📦 GitHub: https://github.com/minseogo  
+🔗 Live Demo: https://go-daniela-dev.vercel.app/
+📦 GitHub: https://github.com/go-daniela-dev/
 
 - Built a personal portfolio website with performance and usability in mind  
 - Implemented multi-language support using JSON-based i18n system  
@@ -152,6 +152,6 @@ Interested in:
 
 ## 📫 Contact
 
-- Email: gominseo1112@gmail.com  
-- GitHub: https://github.com/minseogo  
-- Portfolio: https://gominseo-pr.vercel.app/
+- Email: go.daniela.dev@gmail.com
+- GitHub: https://github.com/go-daniela-dev/
+- Portfolio: https://go-daniela-dev.vercel.app/
