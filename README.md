@@ -152,7 +152,7 @@ Interested in:
 
 ## 📫 Contact
 
-- Email: go.daniela.dev@gmail.com
-- GitHub: https://github.com/go-daniela-dev/
-- Portfolio: https://go-daniela-dev.vercel.app/
-- LinkedIn: www.linkedin.com/in/go-daniela-dev
+- Email: imdanieladev@gmail.com
+- GitHub: https://github.com/imdanieladev
+- Portfolio: https://imdanieladev.vercel.app/
+- LinkedIn: www.linkedin.com/in/imdanieladev
